@@ -48,17 +48,10 @@ pip install tensorflow==2.10.0
 Use tools like Postman or curl to test the API.
 
 ## Model Details
-# Algorithm: Neural Network
-# Framework: TensorFlow
-# Training Data: Fake and Real News Dataset
-# Accuracy: ~85% (may vary based on dataset and epochs)
+Algorithm: Neural Network
+Framework: TensorFlow
+Training Data: Fake and Real News Dataset
+Accuracy: ~85% (may vary based on dataset and epochs)
 
 ## Contributions
 Contributions are welcome! If you encounter issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-```bash
-   git add README.md
-   git commit -m "Added project README.md"
-   git push
-
-   
